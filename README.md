@@ -1,1 +1,1 @@
-# credit-risk-classificatio
+# credit-risk-classification
